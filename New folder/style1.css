@@ -1,6 +1,6 @@
 .container
 {
-	background-image:linear-gradient(rgba(0,0,50,0.8),rgba(0,0,50,0.8)),url(imgg.jpg);
+	background-image:linear-gradient(rgba(0,0,50,0.8),rgba(0,0,50,0.8)),url(imgg.png);
 	background-size: cover;
 	position: relative;
 }
